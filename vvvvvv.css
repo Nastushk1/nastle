@@ -1,0 +1,28 @@
+header {
+  background-color: #FF69B4; 
+  color: black;
+  padding: 10px 0;
+}
+.title-bar {
+  background-color: #FFC0CB; 
+  color: black;
+  padding: 10px 0;
+}
+#wrap {
+  background-color: #E6E6FA; 
+  padding: 20px;
+}
+.submenu.menu.vertical {
+  background-color: #EE82EE; 
+}
+footer {
+  background-color: #BC8F8F; 
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+.row.expanded.callout.secondary {
+  background-color: #C0C0C0; 
+  padding: 15px;
+  border-radius: 5px;
+}
